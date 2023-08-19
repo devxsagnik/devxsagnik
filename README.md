@@ -61,16 +61,13 @@ Hola! I am Sagnik Dutta. Popularly a code addict and a gamer for real :).
 <p align="center">
 
 <a href="https://discord.gg/HMEKZdEExZ">
-
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-
-    </a>
-
-    </p>
+<img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+</a>
+</p>
 
   
 
-  **© [Felix_PlaYz](https://github.com/gtagamermods)**
+  **© [Sagnik Dutta](https://github.com/devxsagnik)**
 
 ---
 
@@ -78,6 +75,6 @@ Hola! I am Sagnik Dutta. Popularly a code addict and a gamer for real :).
 
 <div align ="center">
 
-<img src="https://metrics.lecoq.io/gtagamermods?base.repositories=0&languages=1&isocalendar=1&followup=1">
+<img src="https://metrics.lecoq.io/devxsagnik?base.repositories=0&languages=1&isocalendar=1&followup=1">
 
 </div>
